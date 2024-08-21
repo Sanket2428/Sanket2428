@@ -4,9 +4,9 @@
 <br>
 
 <div align="center" style="margin-bottom:"200px"">
- <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket2428lt&layout=compact&theme=radical" />
+ <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket2428&layout=compact&theme=radical" />
  <br> <br>
- <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=Sanket2428l&theme=radical&show_icons=true" />
+ <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=Sanket2428&theme=radical&show_icons=true" />
 </div>
 
 
