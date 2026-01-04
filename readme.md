@@ -2,12 +2,6 @@
 
 <br>
 
-<div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket2428&layout=compact&theme=radical" />
-  <br><br>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sanket2428&show_icons=true&theme=radical" />
-</div>
-
 <br>
 
 ## 👨‍💻 About Me
